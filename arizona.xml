@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Divinity Equity Real Estate Listings Feed</title>
+    <link>https://www.divinityequity.com</link>
+    <description>Latest real estate listings for sale or rent.</description>
+
+    <!-- Property 1 -->
+    <item>
+      <title>Spacious Family Home</title>
+      <link>https://www.zillow.com/homedetails/9309-W-Madero-Dr-Arizona-City-AZ-85123/8697399_zpid/</link>
+      <description>Spacious 3 bedroom, 2 bath home located near Sunland Gin (for easy commuting) as well as Arizona City Golf Course. </description>
+      <pubDate>Tue, 10 Nov 2023 08:00:00 GMT</pubDate>
+      <guid>https://www.zillow.com/homedetails/9309-W-Madero-Dr-Arizona-City-AZ-85123/8697399_zpid/</guid>
+      
+      <!-- Additional Real Estate Elements -->
+      <price>$600,000</price>
+      <address>9309 W Madero Dr, Arizona City, AZ 85123</address>
+      <media:content url="https://photos.zillowstatic.com/fp/0ba4e779f8fc34a7065e256dd6a1fb6b-cc_ft_960.webp" type="image/jpeg"/>
+      <contactURL>https://www.divinityequity.com/contact-us/</contactURL>
+      <linkToProperty>https://www.zillow.com/homedetails/9309-W-Madero-Dr-Arizona-City-AZ-85123/8697399_zpid/</linkToProperty>
+    </item>
+
+    <!-- Property 2 -->
+    <item>
+      <title>Modern Family Home</title>
+      <link>https://www.zillow.com/homedetails/16416-S-Lamb-Rd-Arizona-City-AZ-85123/82274916_zpid/</link>
+      <description>A modern condo in the heart of downtown with stunning city views. Close to restaurants, shopping, and convenient public transportation.</description>
+      <pubDate>Wed, 11 Nov 2023 10:30:00 GMT</pubDate>
+      <guid>https://www.zillow.com/homedetails/16416-S-Lamb-Rd-Arizona-City-AZ-85123/82274916_zpid/</guid>
+      
+      <!-- Additional Real Estate Elements -->
+      <price>$800,000</price>
+      <address>16416 S Lamb Rd, Arizona City, AZ 85123</address>
+      <media:content url="https://img.freepik.com/premium-photo/real-estate-property-luxury-modern-house-with-blue-sky-background-street-suburban-homes_845018-68.jpg" type="image/jpeg"/>
+      <contactURL>http://yourrealestatewebsite.com/contact/modern-condo</contactURL>
+      <linkToProperty>https://www.zillow.com/homedetails/16416-S-Lamb-Rd-Arizona-City-AZ-85123/82274916_zpid/</linkToProperty>
+    </item>
+
+    <!-- Add more properties as needed -->
+
+
+    <!-- Property 2 -->
+    <item>
+      <title>Duplex Condo</title>
+      <link>https://photos.zillowstatic.com/fp/a88832fc5cbe88a649207a3d2e9a0a2b-cc_ft_960.webp</link>
+      <description>This property is perfect for investors or a buyer looking to gain some sweat equity! </description>
+      <pubDate>Wed, 11 Nov 2023 10:30:00 GMT</pubDate>
+      <guid>https://photos.zillowstatic.com/fp/a88832fc5cbe88a649207a3d2e9a0a2b-cc_ft_960.webp</guid>
+      
+      <!-- Additional Real Estate Elements -->
+      <price>$630,000</price>
+      <address>8773 W Pineveta Dr, Arizona City, AZ 85123</address>
+      <media:content url="https://photos.zillowstatic.com/fp/a88832fc5cbe88a649207a3d2e9a0a2b-cc_ft_960.webp" type="image/jpeg"/>
+      <contactURL>http://yourrealestatewebsite.com/contact/modern-condo</contactURL>
+      <linkToProperty>https://photos.zillowstatic.com/fp/a88832fc5cbe88a649207a3d2e9a0a2b-cc_ft_960.webp</linkToProperty>
+    </item>
+
+    <!-- Add more properties as needed -->
+
+  </channel>
+</rss>
