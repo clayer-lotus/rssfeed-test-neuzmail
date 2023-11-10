@@ -16,7 +16,7 @@
       <!-- Additional Real Estate Elements -->
       <price>$600,000</price>
       <address>9309 W Madero Dr, Arizona City, AZ 85123</address>  
-      <enclosure url="https://flex-home.botble.com/storage/properties/a1-1.jpg" type="image/jpeg" length="0" />
+      <enclosure url="https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg" type="image/jpeg" length="0" />
       <contactURL>https://www.divinityequity.com/contact-us/</contactURL>
       <linkToProperty>https://www.zillow.com/homedetails/9309-W-Madero-Dr-Arizona-City-AZ-85123/8697399_zpid/</linkToProperty>
     </item>
@@ -32,7 +32,7 @@
       <!-- Additional Real Estate Elements -->
       <price>$800,000</price>
       <address>16416 S Lamb Rd, Arizona City, AZ 85123</address>
-      <enclosure url="https://flex-home.botble.com/storage/properties/a1-2.jpg" type="image/jpeg" length="0" />
+      <enclosure url="https://cdn.pixabay.com/photo/2016/06/24/10/47/house-1477041_1280.jpg" type="image/jpeg" length="0" />
       <contactURL>http://yourrealestatewebsite.com/contact/modern-condo</contactURL>
       <linkToProperty>https://www.zillow.com/homedetails/16416-S-Lamb-Rd-Arizona-City-AZ-85123/82274916_zpid/</linkToProperty>
     </item>
@@ -51,7 +51,7 @@
       <!-- Additional Real Estate Elements -->
       <price>$630,000</price>
       <address>8773 W Pineveta Dr, Arizona City, AZ 85123</address>
-      <enclosure url="https://flex-home.botble.com/storage/properties/1.jpg" type="image/jpeg" length="0" />
+      <enclosure url="https://cdn.pixabay.com/photo/2016/11/18/17/20/living-room-1835923_1280.jpg" type="image/jpeg" length="0" />
       <contactURL>http://yourrealestatewebsite.com/contact/modern-condo</contactURL>
       <linkToProperty>https://photos.zillowstatic.com/fp/a88832fc5cbe88a649207a3d2e9a0a2b-cc_ft_960.webp</linkToProperty>
     </item>
